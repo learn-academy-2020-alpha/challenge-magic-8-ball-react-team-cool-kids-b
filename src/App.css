@@ -1,10 +1,26 @@
 body{
+  background-color: lightblue;
   margin: 1%;
   text-align:center;
-  font-family: 'Anton', sans-serif;
+  font-family: , sans-serif;
   height: 90vh;
-}
+
+    background: url(https://media1.giphy.com/media/tpTOw6sljB2U/source.gif);
+    background-size:cover;
+
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+
+  }
+
 h1{
+    color: #ff85af;
   text-decoration: underline;
-  font-size: 40px;
-}
+  font-size: 100px;
+
+ }
+.answer{color:#aaff17;
+    font-size: 40px;}
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/toons/too-10/too966.cur), auto !important;} /* End http://www.cursors-4u.com */
